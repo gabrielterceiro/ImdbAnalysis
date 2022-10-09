@@ -1,6 +1,12 @@
 # ImdbAnalysis
 Mini projeto para o curso Python Fundamentos para Análise de Dados da DSA
 
+Para o correto funcionamento do programa, é necessário o download do banco de dados do IMDB.
+
+# Instala o pacote
+!pip install -q imdb-sqlite
+
+
 ![Relação entre duração e gênero](https://user-images.githubusercontent.com/17628723/194764652-77398799-ba0f-4dde-95fa-9af58c5db1b4.png)
 ![Distribuição de Títulos](https://user-images.githubusercontent.com/17628723/194764654-91c1975a-98be-4d83-93cf-03b1c20fcada.png)
 ![Mediana de Avaliação de Filmes em relação ao ano de estréia](https://user-images.githubusercontent.com/17628723/194764655-99817a2c-69ce-481c-aa5f-672c748f2455.png)
